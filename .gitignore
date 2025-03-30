@@ -1,0 +1,5 @@
+# Node dependencies
+client/node_modules/
+
+# Package lock file
+client/package-lock.json
